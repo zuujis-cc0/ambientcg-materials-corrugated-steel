@@ -1,5 +1,21 @@
 {
- "assets": {},
+ "assets": {
+  "CorrugatedSteel001": "d14ba0e3faef1204a5131194083bd132316e10b1",
+  "CorrugatedSteel002": "a57f589cbab3aefefb7053cc256e2b5fefe4475b",
+  "CorrugatedSteel003": "109bb6936e973742e8c60e42878857b40df697df",
+  "CorrugatedSteel004": "1fe0679403850c63198a5620aba92d9d1dd3fd1f",
+  "CorrugatedSteel005": "af80c22f6bb8caefef7202cd9dc31ecdd96662e8",
+  "CorrugatedSteel006A": "4a2e0b1632bdf20114dbbde51f05bf0c5c773083",
+  "CorrugatedSteel006B": "ab0b198286bf69abf174cb8242a234da8a49a46d",
+  "CorrugatedSteel006C": "888367f59e71a066f231a731c23653848a4ac24d",
+  "CorrugatedSteel007A": "90f27a2633edb00bf6c236879aff03cbff0a15ee",
+  "CorrugatedSteel007B": "2d4ba0a12b52d94719da073b11e706935662bbd3",
+  "CorrugatedSteel007C": "a43b6c917d9e1d8119785891153ee5b185970721",
+  "CorrugatedSteel008A": "380aed8c54c43a17126162fa5629d502c262059f",
+  "CorrugatedSteel008B": "b89f47026a53890d32593423b5cfb147c3e68ab4",
+  "CorrugatedSteel008C": "e1ebb7826991ddfa6c96e73d5bfbe47edd42ef8f",
+  "CorrugatedSteel009": "2a920382dc11adf30686cc4a11f50bfb7b364462"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",
